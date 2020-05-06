@@ -13,7 +13,7 @@ Temperature and loading frequency are two main factors which Captured from Maste
 ***
 ### Objectives:
  
-The Objective is to solve a "modified version of the Mechanistic-Empirical Design Guide master curve equation". This program reads directly the raw output data related to a series of tests performed for a single Hot Mix Asphalt Material from extracted .csv files, then generates the its related curve at a defined reference temperature, in an easy and fast process. Aftrer running the program you will have following outputs: 
+The Objective is to solve a "modified version of the Mechanistic-Empirical Design Guide master curve equation". This program reads directly the raw output data related to a series of tests performed for a single Hot Mix Asphalt Material from extracted .csv files, then generates the its related curve at a defined reference temperature, in an easy and fast process. After running the program you will have following outputs: 
 
 1- Table 01: Dynamic modulus values at the temperatures and frequencies required by the Mechanistic Emprical Pavement Desgin Guide (MEPDG)
 
