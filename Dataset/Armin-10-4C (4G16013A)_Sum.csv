@@ -1,0 +1,40 @@
+Test Information
+****************
+Project name,Armin
+Operator name,K-State
+Target test temperature,4
+Target confining stress,0
+Average dynamic strain range from 75 to 125 micro-strain
+Contact stress,5
+Initial modulus,1451
+Axial gauge length,70
+Comments
+ Specimen information 
+********************
+Identification,Armin-10-4C (4G16013A)
+
+ Dimensions,Point 1,Point 2,Point 3,Point 4,Point 5,Point 6,Average,Std Dev.
+ Diameter (mm),100.8,101.0,100.7,101.0,100.9,,100.89,0.126
+ Height (mm),148.9,148.8,152.6,151.3,149.0,,150.11,1.721
+
+Cross-sectional area (mm²),7993.8
+
+Conditioning time,na
+
+Properties/Comments
+*********
+Test date and time,Sat, Dec 7, 2019, 12:44 AM
+Test results summary
+,25 Hz,10 Hz,5 Hz,1 Hz,0.5 Hz,0.1 Hz
+ Dynamic modulus (MPa),9372,8963,8408,7017,6448,5217
+ Phase angle (Degrees),13.89,9.81,10.12,11.47,12.18,14.23
+ Average temperature  (°C),4.1,4.1,4.1,4.1,4.1,4.0
+ Average confining pressure  (kPa),1.2,1.2,1.2,1.2,1.2,1.2
+ Average micro-strain,104,101,97,99,100,101
+ Load drift (%),0.0,0.0,1.2,0.0,0.0,0.0
+ Load standard error (%),3.2,0.9,0.9,0.4,0.3,0.5
+ Average deformation drift (%),-44.1,-26.7,-27.3,-32.5,-30.3,-51.8
+ Average deformation standard error (%),6.0,2.0,1.7,1.6,1.8,2.1
+ Deformation uniformity (%),45.6,49.1,49.9,50.8,51.1,51.4
+ Phase uniformity (Degrees),7.9,0.4,0.5,0.7,0.9,1.1
+
