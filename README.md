@@ -2,7 +2,8 @@
 ## Name: Armin Motahari (arminm@ksu.edu)
 ## Semester: Spring 2020
 ## Project Area: Civil Engineering
-
+***
+[![DOI](https://zenodo.org/badge/261871664.svg)](https://zenodo.org/badge/latestdoi/261871664)
 ***
 ### Background: 
 
