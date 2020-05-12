@@ -1,5 +1,5 @@
 # Dynamic Modulus Master Curve for Hot Mix Asphalt (HMA)
-## Name: Armin Motahari (arminm@ksu.edu)
+## Name: SeyedArmin MotahariTabari (arminm@ksu.edu)
 ## Semester: Spring 2020
 ## Project Area: Civil Engineering
 ***
